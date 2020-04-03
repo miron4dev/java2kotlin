@@ -1,7 +1,6 @@
 package com.miron4dev
 
 // https://kotlinlang.org/docs/reference/null-safety.html
-
 fun main() {
     var str: String = "something"
 //    str = null

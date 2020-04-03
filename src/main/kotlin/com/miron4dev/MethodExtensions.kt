@@ -1,5 +1,6 @@
 package com.miron4dev
 
+// https://kotlinlang.org/docs/reference/extensions.html
 fun main() {
     val list = mutableListOf(1, 2, 3, 4)
 

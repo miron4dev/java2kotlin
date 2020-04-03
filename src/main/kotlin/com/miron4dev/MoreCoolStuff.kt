@@ -2,6 +2,7 @@ package com.miron4dev
 
 import java.io.IOException
 
+// https://kotlinlang.org/docs/reference/idioms.html
 fun main() {
     ranges()
 
